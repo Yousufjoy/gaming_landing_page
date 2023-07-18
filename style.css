@@ -1,0 +1,135 @@
+/* Navbar Starts  */
+
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+.left-nav {
+  display: flex;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 180px;
+}
+
+.right-nav {
+  display: flex;
+}
+
+.right-nav > ul {
+  display: flex;
+  margin-top: 46px;
+  font-size: large;
+}
+
+ul > li {
+  list-style: none; /*list er vitore dot dot eigula thake so eke gayeb korte hobe*/
+  margin-right: 10px;
+  padding: 5px;
+}
+
+nav li a {
+  text-decoration: none; /* So eita diye link e jei niche dag ta ase seita k gayeb kore */
+  color: rgb(63, 47, 27);
+}
+
+.right-heading {
+  margin-top: 52px;
+  font-size: large;
+}
+
+.youtube-icon {
+  margin-top: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+.tiktok-icon {
+  margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+
+.logo-title {
+  margin-top: 20px;
+  padding-left: 20px;
+  color: #0b0223;
+  font-size: x-large;
+}
+
+.logo {
+  margin-top: 50px;
+}
+
+/* Section 2 starts  */
+.sec2 {
+  display: flex;
+}
+
+.left-side-sec2 {
+  height: 680px;
+  width: 600px;
+}
+.right-side-sec2 {
+  margin-left: 430px;
+}
+
+.sv {
+  position: relative;
+}
+
+.child {
+  position: absolute;
+  padding: 150px 100px 0px 200px;
+}
+
+.btn-1 {
+  display: inline-flex;
+  padding: 21px 40px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 48px;
+  background: var(--linear, linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%));
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-2 {
+  display: inline-flex;
+  padding: 21px 40px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 48px;
+  background: #4ec5f7;
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+/* .custom-icon {
+  display: flex;
+  align-items: center;
+}
+
+.custom-icon .material-symbols-outlined {
+  margin-right: 5px; 
+} */
+
+/* Section 3 Starts  */
