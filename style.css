@@ -208,7 +208,45 @@ nav li a {
   margin-top: 70px;
 }
 
+/* .imgcls1:hover {
+  border-radius: 16px;
+  border-radius: 16px;
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.6) 0%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    url(<path-to-image>), lightgray 50% / cover no-repeat;
+} */
+
+/* .sec4-heading {
+  color: #0b0223;
+  text-align: center;
+
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+} */
+
 .sec4-heading {
+  text-align: center;
+
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.secp1 {
   color: #0b0223;
   text-align: center;
 
