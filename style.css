@@ -8,60 +8,79 @@ body {
   font-family: "Open Sans", sans-serif;
   font-family: "Work Sans", sans-serif;
 }
+/* 
 
-.left-nav {
-  display: flex;
-}
 
+
+
+
+
+
+
+
+.right-heading {
+  margin-top: 52px;
+  font-size: large;
+} */
 .nav {
   display: flex;
   justify-content: space-between;
   margin: 0 180px;
 }
 
+.left-nav {
+  display: flex;
+}
 .right-nav {
   display: flex;
 }
-
 .right-nav > ul {
   display: flex;
-  margin-top: 46px;
+  margin-top: 40px;
   font-size: large;
 }
 
 ul > li {
-  list-style: none; /*list er vitore dot dot eigula thake so eke gayeb korte hobe*/
+  list-style: none;
   margin-right: 10px;
   padding: 5px;
 }
 
 nav li a {
-  text-decoration: none; /* So eita diye link e jei niche dag ta ase seita k gayeb kore */
+  text-decoration: none;
   color: rgb(63, 47, 27);
 }
-
-.right-heading {
-  margin-top: 52px;
-  font-size: large;
+.followus {
+  width: 222px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: rgba(11, 2, 35, 0.1);
+  text-align: center;
+  padding-top: 7px;
+  margin-top: 0px;
 }
 
-.youtube-icon {
-  margin-top: 10px;
-  height: 100px;
-  width: 100px;
+.cl1 {
+  padding-top: 20px;
 }
-
-.tiktok-icon {
-  margin-top: 30px;
-  height: 50px;
-  width: 50px;
+.cl2 {
+  padding-top: 20px;
 }
-
 .logo-title {
   margin-top: 20px;
   padding-left: 20px;
   color: #0b0223;
   font-size: x-large;
+}
+
+.svgContainer1 {
+  padding-left: 10px;
+  padding-top: 100px;
+}
+.svgContainer2 {
+  padding-left: 10px;
+  padding-top: 100px;
 }
 
 .logo {
