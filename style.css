@@ -305,3 +305,46 @@ nav li a {
   font-weight: 400;
   line-height: 30px; /* 166.667% */
 }
+
+/* Section 6 Starts */
+
+.section6 {
+  margin-top: 70px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 165, 0.03) 0%,
+    rgba(255, 66, 165, 0.03) 100%
+  );
+}
+
+.first_row {
+  display: flex;
+  padding-top: 100px;
+  padding-left: 250px;
+  gap: 30px;
+}
+.second-row {
+  display: flex;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-left: 350px;
+  gap: 30px;
+}
+
+.simg {
+  width: 243px;
+  height: 80px;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background: #fff;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.adv {
+  display: flex;
+}
+.adg {
+  margin-top: 30px;
+  margin-left: 20px;
+}
