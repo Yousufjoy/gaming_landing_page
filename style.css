@@ -514,10 +514,6 @@ nav li a {
     flex-direction: column-reverse;
   }
 
-  .left-side-sec2 {
-    margin: 0;
-  }
-
   .right-side-sec2 {
     margin: 0;
     width: 100%;
@@ -540,7 +536,7 @@ nav li a {
   }
 
   .left-side-sec2 {
-    padding-left: 50px;
+    padding-left: 0px;
   }
 
   .section3 {
@@ -627,7 +623,7 @@ nav li a {
   .section6 {
     margin-top: 100px;
     height: 800px;
-    width: 520px;
+    width: 600px;
   }
   .first_row {
     padding-left: 0;
@@ -662,7 +658,7 @@ nav li a {
   }
   .section7 {
     height: 100%;
-    width: 600px;
+    width: 590px;
     text-align: center;
   }
   .first-part {
