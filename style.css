@@ -186,7 +186,7 @@ nav li a {
 /* Section 4 Starts  */
 
 .section4 {
-  margin-top: 70px;
+  margin-top: 60px;
 }
 
 .imgcls1 {
@@ -485,6 +485,7 @@ nav li a {
     margin: 0;
     display: flex;
     flex-direction: column;
+    margin-left: -100px;
   }
   .gamerIcs {
     padding-top: 30px;
@@ -494,7 +495,7 @@ nav li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 155px;
+    margin-left: 100px;
   }
   .right-nav {
     margin-left: 80px;
@@ -525,13 +526,13 @@ nav li a {
 
   .iam {
     height: 350px;
-    padding-left: 100px;
+    padding-left: 10px;
   }
 
   .leftimg {
-    height: 300px;
+    height: 290px;
     padding-left: 35px;
-    width: 500px;
+    width: 320px;
   }
 
   .svgClassy {
@@ -540,7 +541,7 @@ nav li a {
   }
 
   .left-side-sec2 {
-    padding-left: 90px;
+    padding-left: 0px;
     width: 0px;
   }
 
@@ -629,7 +630,7 @@ nav li a {
   .section6 {
     margin-top: 100px;
     height: 800px;
-    width: 570px;
+    width: 420px;
   }
   .first_row {
     padding-left: 0;
@@ -651,7 +652,7 @@ nav li a {
   .cowboyb {
     position: relative;
     height: 550px;
-    width: 450px;
+    width: 350px;
     background-color: blue;
   }
   .section5-left {
@@ -664,7 +665,7 @@ nav li a {
   }
   .section7 {
     height: 100%;
-    width: 570px;
+    width: 490px;
     text-align: center;
   }
   .first-part {
@@ -688,7 +689,7 @@ nav li a {
   }
 
   .playthe {
-    font-size: 100px;
+    font-size: 20px;
   }
   .child {
     position: absolute;
