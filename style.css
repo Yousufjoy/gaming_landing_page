@@ -267,6 +267,8 @@ nav li a {
   display: flex;
   gap: 200px;
   margin-top: 100px;
+
+  padding-right: 60px;
 }
 
 .play {
@@ -550,6 +552,7 @@ nav li a {
     flex-direction: column;
     background-color: none;
     background: white;
+    width: 100%;
   }
   .mgam {
     padding-left: 100px;
@@ -594,6 +597,13 @@ nav li a {
     padding-left: 120px;
   }
 
+  .dls {
+    color: #0b0223;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 10px;
+  }
   .below {
     flex-direction: column;
 
@@ -614,12 +624,14 @@ nav li a {
   }
   .play {
     width: 100%;
-    font-size: 50px;
+    font-size: 30px;
     padding-right: 10px;
   }
 
   .section5_ptag {
     text-align: center;
+    font-size: 10px;
+    line-height: 10px;
   }
 
   .section5-right {
@@ -630,7 +642,10 @@ nav li a {
   .section6 {
     margin-top: 100px;
     height: 800px;
-    width: 420px;
+    max-width: 420px;
+  }
+  .section4 {
+    padding-right: 150px;
   }
   .first_row {
     padding-left: 0;
@@ -665,27 +680,29 @@ nav li a {
   }
   .section7 {
     height: 100%;
-    width: 490px;
+    width: 445px;
     text-align: center;
   }
   .first-part {
-    padding-right: 70px;
+    padding-right: -70px;
   }
   .second-part {
     padding-left: 40px;
     gap: 20px;
+    font-size: 12px;
+    padding-right: 50px;
   }
   .fourth-part {
-    padding-left: 60px;
+    padding-left: -60px;
   }
 
   .fifth-part {
-    padding-right: 80px;
+    padding-right: 18px;
   }
 
   .third-part {
     gap: 20px;
-    padding-right: 60px;
+    padding-right: -60px;
   }
 
   .playthe {
