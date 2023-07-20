@@ -662,9 +662,29 @@ nav li a {
   }
   .section7 {
     height: 100%;
-    width: 100%;
+    width: 600px;
     text-align: center;
   }
+  .first-part {
+    padding-right: 70px;
+  }
+  .second-part {
+    padding-left: 40px;
+    gap: 20px;
+  }
+  .fourth-part {
+    padding-left: 60px;
+  }
+
+  .fifth-part {
+    padding-right: 80px;
+  }
+
+  .third-part {
+    gap: 20px;
+    padding-right: 60px;
+  }
+
   .playthe {
     font-size: 100px;
   }
