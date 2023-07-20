@@ -599,7 +599,7 @@ nav li a {
 
   .dls {
     color: #0b0223;
-    font-size: 18px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 700;
     line-height: 10px;
@@ -624,14 +624,14 @@ nav li a {
   }
   .play {
     width: 100%;
-    font-size: 30px;
+    font-size: 60px;
     padding-right: 10px;
   }
 
   .section5_ptag {
     text-align: center;
-    font-size: 10px;
-    line-height: 10px;
+    font-size: 20px;
+    line-height: 22px;
   }
 
   .section5-right {
@@ -648,7 +648,7 @@ nav li a {
     padding-right: 150px;
   }
   .first_row {
-    padding-left: 0;
+    padding-left: 30px;
     display: flex;
     flex-wrap: wrap;
   }
@@ -656,6 +656,7 @@ nav li a {
     display: flex;
     flex-wrap: wrap;
     padding-left: 0;
+    padding-left: 30px;
   }
 
   .insideimg {
