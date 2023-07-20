@@ -528,12 +528,12 @@ nav li a {
 
   .iam {
     height: 350px;
-    padding-left: 10px;
+    padding-left: 40px;
   }
 
   .leftimg {
     height: 290px;
-    padding-left: 35px;
+    padding-left: 65px;
     width: 320px;
   }
 
@@ -543,7 +543,7 @@ nav li a {
   }
 
   .left-side-sec2 {
-    padding-left: 0px;
+    padding-left: 25px;
     width: 0px;
   }
 
@@ -555,7 +555,7 @@ nav li a {
     width: 100%;
   }
   .mgam {
-    padding-left: 100px;
+    padding-left: 80px;
     width: 100%;
     font-size: 30px;
   }
